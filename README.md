@@ -1,6 +1,6 @@
 # 🐟 Fish Farming Expert System
 
-A sophisticated AI-powered chatbot application designed to provide expert guidance on fish farming and aquaculture practices. Built with Streamlit and powered by OpenAI's fine-tuned language models, this system offers comprehensive advice on breeding, feeding, pond management, and disease prevention.
+A AI-powered chatbot application designed to provide expert guidance on fish farming and aquaculture practices. Built with Streamlit and powered by OpenAI's fine-tuned language models, this system offers comprehensive advice on breeding, feeding, pond management, and disease prevention.
 
 ## 🌟 Features
 
