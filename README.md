@@ -5,7 +5,7 @@ A AI-powered chatbot application designed to provide expert guidance on fish far
 ## 🌟 Features
 
 - **Expert Fish Farming Guidance**: Specialized knowledge in aquaculture practices
-- **Multilingual Support**: Available in English and Japanese
+- **Bilingual  Support**: Available in English and Japanese
 - **Fine-tuned AI Model**: Custom-trained on fish farming expertise
 - **Interactive Chat Interface**: Modern, responsive UI with dark theme
 - **Conversation Memory**: Maintains context throughout the conversation
